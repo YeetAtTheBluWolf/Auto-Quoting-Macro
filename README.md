@@ -4,7 +4,7 @@
 
 1. Make sure python and pip is installed.
 2. Run the 'pip install -r requirements.txt' to install the libraries used in the project.
-3. Run 'python3 auto-yapper-rblx.py --x [number] --y [number]' or 'python3 auto-yapper-mc.py'
+3. Run 'python3 auto_yapper_rblx.py --x [number] --y [number]' or 'python3 auto_yapper_mc.py'
 
 ### Description
 
