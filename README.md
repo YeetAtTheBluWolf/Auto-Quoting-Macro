@@ -4,7 +4,7 @@
 
 1. Make sure python and pip is installed.
 2. Run the 'pip install -r requirements.txt' to install the libraries used in the project.
-3. Run 'python3 auto-yapper-rblx.py -x [number] -y [number]' or 'python3 auto-yapper-mc.py'
+3. Run 'python3 auto-yapper-rblx.py --x [number] --y [number]' or 'python3 auto-yapper-mc.py'
 
 ### Description
 
@@ -17,8 +17,8 @@ The roblox script does require some tweaking because the script relies on moving
 ##### Usage
 
 * --help
-* -x ; to set x coord of the screen for the rblx script.
-* -y ; to set y coord of the screen for the rblx script.
+* --x ; to set x coord of the screen for the rblx script.
+* --y ; to set y coord of the screen for the rblx script.
 
 #### Minecraft script
 
