@@ -1,5 +1,7 @@
 # Auto-quote macro script
 
+[![Pylint](https://github.com/YeetAtTheBluWolf/Auto-Quoting-Macro/actions/workflows/pylint.yml/badge.svg)](https://github.com/YeetAtTheBluWolf/Auto-Quoting-Macro/actions/workflows/pylint.yml)
+
 ### Setup and running
 
 1. Make sure python and pip is installed.
